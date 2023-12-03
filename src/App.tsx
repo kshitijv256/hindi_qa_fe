@@ -30,8 +30,8 @@ function App() {
 
   return (
     <>
-      <div className="bg-[url('/hindi_back.png')] bg-cover w-screen h-screen flex flex-col items-center pt-8">
-        <h1 className="text-rose-400 py-4 text-6xl font-bold">
+      <div className="bg-[url('/hindi_back.png')] bg-cover w-screen h-screen flex flex-col items-center pt-4">
+        <h1 className="grad-text py-4 text-7xl font-bold">
           हिंदी प्रश्न उत्तर
         </h1>
         <form className="flex flex-col" action="/submit">
